@@ -155,3 +155,8 @@ vite.config.ts.timestamp-*
 .nx/cache
 .nx/workspace-data
 .nx/migrate-runs
+
+.env
+vault.log
+vault.zip
+gitleaks.tar.gz
