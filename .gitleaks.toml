@@ -1,0 +1,8 @@
+[extend]
+useDefault = true
+
+[[rules]]
+id = "lab-api-key"
+description = "Clave de API de laboratorio"
+regex = '''sk_live_[A-Za-z0-9]{24,}'''
+keywords = ["sk_live_"]
